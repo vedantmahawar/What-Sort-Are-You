@@ -1,11 +1,3 @@
-/*
- * Vedant Mahawar
- * November 15th 2023
- * B Period ADS
- * Guesses what sorting algorithm (or as close can be) a user is using to sort 
- * an integer array
- */
-
 // Declares package
 package Final;
 
