@@ -1,17 +1,3 @@
-/* Katelin Lewellen
- * October 7, 2021
- * Methods to aid in implementing sorting algorithms
- * particularly: bogosort, bubblesort, selectionsort, and insertionsort
- * 
- * TODO: some methods are left unfilled. You need to implement:
- *  - swap
- *  - fillSorted 
- *  - fillRevSorted
- * yourself, but please leave the call to log in the swap method. 
- * log is implemented in my version of this file, to aid in the pretty
- * garphical test visualization.
- */
-
 package Final;
 
 import Sorts.*;
