@@ -1,8 +1,3 @@
-/* Vedant Mahawar
- * October 30th 2023
- * B Period ADS
- * Sorts a integer array using Quick Sort
- */
 // Declares Package
 package Final;
 
